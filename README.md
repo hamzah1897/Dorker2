@@ -13,7 +13,7 @@ Automatic Google Dorker Bash Based
 
 ## How To Install
 ```bash
-# git clone https://github.com/florienzh4x/GooDorker.git
+# git clone https://github.com/hamzah1897/Dorker2.git
 # cd GooDorker
 # chmod +x install
 # ./scan atau bash scan
