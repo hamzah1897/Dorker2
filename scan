@@ -1,7 +1,4 @@
 #!/bin/bash
-# Coded by Monkey B Luffy
-# https://github.com/florienzh4x
-# Special Thanks for Rinto AR
 
 token(){
 	GetToken=$(curl -s --compressed "https://cse.google.com/cse.js?cx=partner-pub-2698861478625135:3033704849" -L -D -)
